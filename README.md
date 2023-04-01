@@ -24,10 +24,6 @@ The database will contain several tables, including `movies`, `showtimes`, and `
 - MySQL Workbench
 
 
-👨‍💻 **Contributors**
-- Jane Doe
-- John Smith
-
 📚 **Resources**
 - Maven Movies [database](https://courses.mavenanalytics.io/courses/take/mysql-data-analysis/downloads/7655459-download-course-resources) (provided by Maven Analytics)
 - SQLWorkbench 8
