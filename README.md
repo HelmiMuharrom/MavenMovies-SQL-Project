@@ -2,10 +2,10 @@
 ## 🎬 SQL Project 🎬
 
 ℹ️  **Project Description**
-This project is part of the Maven Movies database management project. The goal of this project is to create a SQL database for a movie theater that will allow the theater to manage its movies, showtimes, and customers. 
+This project is part of the Maven Movies database management project. which aiso have an **Mid Course Project** And **Final Couse Project** The goal of this project is to create a SQL database for a movie Rental that will allow the manager to manage its movies, and inventory, and customers.
 
 🗄️ **Data Description**
-The database will contain several tables, including `movies`, `showtimes`, and `customers`. The `movies` table will contain information about each movie, including the title, director, and release year. The `showtimes` table will contain information about each movie showing, including the movie title, showtime, and theater room number. The `customers` table will contain information about each customer, including their name, email address, and phone number. 
+The database will contain several tables, including `movies`, `inventory`, and `customers`. The `movies` table will contain information about each movie, including the title, director, and release year. The `showtimes` table will contain information about each movie showing, including the movie title, showtime, and theater room number. The `customers` table will contain information about each customer, including their name, email address, and phone number. 
 
 🔍 **Analysis Steps**
 1. Design the database schema
